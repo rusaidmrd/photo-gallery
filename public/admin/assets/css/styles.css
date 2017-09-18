@@ -1,0 +1,8 @@
+.list-all-img table td {
+	width: 120px;
+}
+
+.list-all-img table td img {
+  	width: 80%;
+  	margin: 10px auto;
+}
